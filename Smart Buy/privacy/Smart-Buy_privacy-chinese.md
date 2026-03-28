@@ -1,7 +1,7 @@
 Smart Buy 隐私政策
 应用名称： Smart Buy
 开发者名称： NextGen Logic Studio
-最后更新日期： 2024年3月20日
+最后更新日期： 2026年3月28日
 1. 简介
 本隐私政策描述了 NextGen Logic Studio（“我们”、“我们的”）如何在“Smart Buy”移动应用程序中处理信息。我们致力于保护您的隐私和个人数据。
 2. 个人数据收集
